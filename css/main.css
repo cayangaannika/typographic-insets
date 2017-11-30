@@ -87,3 +87,6 @@ footer {
 */
 
 /* Write your CSS here */
+html {
+  border-width: 3px;
+}
