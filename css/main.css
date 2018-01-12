@@ -87,9 +87,6 @@ footer {
 */
 
 /* Write your CSS here */
-html {
-  border-width: 3px;
-}
 
 main > p:first-child::first-letter {
   background-color: #666;
